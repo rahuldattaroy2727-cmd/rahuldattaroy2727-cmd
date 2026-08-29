@@ -239,21 +239,11 @@ My Python workflow focuses on **data manipulation, exploratory analysis, statist
 
 ---
 
-# 📊 GitHub Stats
+📊 GitHub Stats
 
-<p align="center">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahuldattaroy2727-cmd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldattaroy2727-cmd&theme=tokyonight&hide_border=true" height="180"/> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahuldattaroy2727-cmd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldattaroy2727-cmd&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldattaroy2727-cmd&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
 
 # 🐍 Watch My Contributions Come Alive
 
