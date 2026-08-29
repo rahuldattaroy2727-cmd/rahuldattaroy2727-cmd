@@ -281,7 +281,7 @@ I'm focused on building projects that demonstrate not just **technical skills**,
 
 <p align="center">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rahul-datta-roy-0340a7209/)">
+<a href="https://www.linkedin.com/in/rahul-datta-roy-0340a7209/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
