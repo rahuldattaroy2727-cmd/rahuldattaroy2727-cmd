@@ -26,11 +26,11 @@
 │                                                          │
 │   📊 Data Analyst                                        │
 │                                                          │
-│   🔹 SQL                         🔹 Python               │
-│   🔹 Pandas                      🔹 NumPy                │
-│   🔹 Matplotlib                  🔹 Seaborn              │
-│   🔹 Excel                       🔹 BigQuery             │
-│   🔹 Power BI                    🔹 Tableau              │
+│   🔹 SQL                         🔹 Python              │
+│   🔹 Pandas                      🔹 NumPy               │
+│   🔹 Matplotlib                  🔹 Seaborn             │
+│   🔹 Excel                       🔹 BigQuery            │
+│   🔹 Power BI                    🔹 Tableau             │
 │                                                          │
 │   Turning raw data → patterns → insights → decisions     │
 │                                                          │
@@ -243,13 +243,13 @@ My Python workflow focuses on **data manipulation, exploratory analysis, statist
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=rahuldattaroy2727-cmd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuldattaroy2727-cmd&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -281,11 +281,11 @@ I'm focused on building projects that demonstrate not just **technical skills**,
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rahul-datta-roy-0340a7209/)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rahuldattaroy2727@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
